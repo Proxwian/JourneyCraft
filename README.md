@@ -1,0 +1,2 @@
+# JourneyCraft
+Wiki сервера JourneyCraft
